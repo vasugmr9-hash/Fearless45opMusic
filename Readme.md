@@ -1,5 +1,5 @@
 <!-- FEARLESS X MUSIC ANIMATED BANNER --><p align="center">
-  <img src="https://raw.githubusercontent.com/vasugmr9-hash/Fearless45opMusic/banner.svg" alt="Fearless X Music Banner" width="900"/>
+  <img src="https://raw.githubusercontent.com/vasugmr9-hash/Fearless45opMusic/main/banner.svg" alt="Fearless X Music Banner" width="900"/>
 </p><!-- ANIMATED FOOTER LINE --><p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p><!-- ANIMATED TITLE --><h1 align="center">
